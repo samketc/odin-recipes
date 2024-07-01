@@ -1,0 +1,1 @@
+This project is going to be used to demonstrate basic HTML knowledge and functionality. The focus of this project is not on design, but on the structure of the udnerlying HTML and page building
